@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Mel Levy!
+- 🌱 Aspirante a desenvolvedor de software
 - 🔭 Experiências com C# .NET e Javascript
-- 🌱 Aprendendo mais sobre desenvolvimento web
-- 📖 Procurando aprender novos idiomas
+- 📖 Procurando aprender novos idiomas e me atualizar sobre as tecnologias.
 - 💬 Pergunte-me sobre qualquer coisa
 
 
