@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Mel Levy! | Hi, I'm Mel Levy!
 
 🚀 Movido pela curiosidade e pela vontade de crescer na tecnologia.
-🚀 Driven by curiosity and the will to grow in tech.
+| Driven by curiosity and the will to grow in tech.
 
 - 💻 Construindo habilidades em C#, .NET, JavaScript e Python
   | Building skills in C#, .NET, JavaScript and Python
