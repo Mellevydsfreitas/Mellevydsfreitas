@@ -1,19 +1,31 @@
-# 👋 Olá, eu sou o Mel Levy!
-- 🌱 Aspirante a desenvolvedor de software
-- 🔭 Experiências com C# .NET e Javascript
-- 📖 Procurando aprender novos idiomas e me atualizar sobre as tecnologias.
-- 💬 Pergunte-me sobre qualquer coisa
+# 👋 Olá, eu sou o Mel Levy! | Hi, I'm Mel Levy!
+
+🚀 Movido pela curiosidade e pela vontade de crescer na tecnologia.
+🚀 Driven by curiosity and the will to grow in tech.
+
+- 💻 Construindo habilidades em C#, .NET, JavaScript e Python
+  | Building skills in C#, .NET, JavaScript and Python
+
+- 🎯 Sempre buscando novos desafios e oportunidades de aprendizado
+  | Always seeking new challenges and learning opportunities
+
+- 📖 Estudando novas tecnologias e idiomas constantemente
+  | Constantly studying new technologies and languages
+
+- 🌍 Acredito que aprender nunca tem fim
+  | I believe learning never stops
+
+- 💬 Fique à vontade para me perguntar qualquer coisa!
+  | Feel free to ask me anything!
 
 
 ### 🖳 Linguagens e Tecnologias
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Levy-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Levy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Levy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Levy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Levy-PostSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Levy-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  
+  <img align="center" alt="Levy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##
