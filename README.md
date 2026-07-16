@@ -38,17 +38,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csha
 <img align="center" alt="JavaScript" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
----
 
-## 🎯 Objetivos | Goals
-
-* 📚 Evoluir como Analista de Dados / BI.
-* 📊 Desenvolver dashboards e indicadores para apoiar a tomada de decisão.
-* ⚙️ Automatizar processos utilizando Python.
-* 🗄️ Aprimorar conhecimentos em SQL, modelagem de dados e ETL.
-* ☁️ Expandir conhecimentos em ferramentas de dados e computação em nuvem.
-
-Sempre compartilhando projetos, estudos e aprendizados por aqui. 🚀
 
   
   ##
