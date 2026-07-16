@@ -1,33 +1,34 @@
 # 👋 Olá, eu sou o Mel Levy! | Hi, I'm Mel Levy!
 
+🚀 Apaixonado por tecnologia e aprendizado contínuo.
+| Passionate about technology and continuous learning.
 
-* 📊 Em transição para a área de Dados, com foco em Business Intelligence e Análise de Dados.
-  | Transitioning into the Data field, focusing on Business Intelligence and Data Analytics.
+- 💼 Atualmente atuo como Analista de TI, trabalhando com monitoramento de infraestrutura, administração de ambientes Linux e suporte a sistemas.
+  | Currently working as an IT Analyst, focusing on infrastructure monitoring, Linux administration, and system support.
 
-* 💻 Desenvolvendo habilidades em SQL, Power BI, Python e PostgreSQL para transformar dados em informações estratégicas.
-  | Building skills in SQL, Power BI, Python, and PostgreSQL to turn data into strategic insights.
+- 🌱 Sempre buscando aprender novas tecnologias e desenvolver novas habilidades.
+  | Always looking to learn new technologies and develop new skills.
 
-* 📈 Interessado em ETL, visualização de dados, automação e criação de dashboards.
-  | Interested in ETL, data visualization, automation, and dashboard development.
+- 🎯 Motivado por desafios que contribuam para meu crescimento profissional e pessoal.
+  | Motivated by challenges that contribute to my professional and personal growth.
 
-* 🎯 Sempre buscando novos desafios, aprendizado contínuo e evolução profissional.
-  | Always seeking new challenges, continuous learning, and professional growth.
+- 🤝 Acredito que compartilhar conhecimento e colaborar são partes essenciais da evolução na tecnologia.
+  | I believe that sharing knowledge and collaboration are essential parts of growth in technology.
 
-* 💬 Fique à vontade para entrar em contato ou trocar experiências!
-  | Feel free to connect or share experiences!
+- 💬 Fique à vontade para explorar meus projetos e trocar experiências!
+  | Feel free to explore my projects and connect with me!
 
 ---
 
-## 📊 Linguagens e Tecnologias | Languages & Technologies
+## 🛠️ Linguagens e Tecnologias | Languages & Technologies
 
-<img align="center" alt="SQL" height="30" width="40"
+<div style="display: inline_block">
+
+<img align="center" alt="PostgreSQL" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 
 <img align="center" alt="Python" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-<img align="center" alt="Power BI" height="30" width="40"
-src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
 
 <img align="center" alt="Git" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
@@ -38,8 +39,27 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csha
 <img align="center" alt="JavaScript" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
+</div>
 
+---
 
+## ⚙️ Ferramentas e Plataformas | Tools & Platforms
+
+<div style="display: inline_block">
+
+<img align="center" alt="Linux" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+
+<img align="center" alt="Grafana" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg">
+
+<img align="center" alt="Zabbix" height="30" width="40"
+src="https://cdn.simpleicons.org/zabbix/D40000">
+
+<img align="center" alt="GLPI" height="30" width="40"
+src="https://cdn.simpleicons.org/glpi/2C9AB7">
+
+</div>
   
   ##
  
