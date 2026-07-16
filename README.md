@@ -1,32 +1,53 @@
 # 👋 Olá, eu sou o Mel Levy! | Hi, I'm Mel Levy!
 
-🚀 Movido pela curiosidade e pela vontade de crescer na tecnologia.
-| Driven by curiosity and the will to grow in tech.
 
-- 💻 Construindo habilidades em C#, .NET, JavaScript e Python
-  | Building skills in C#, .NET, JavaScript and Python
+* 📊 Em transição para a área de Dados, com foco em Business Intelligence e Análise de Dados.
+  | Transitioning into the Data field, focusing on Business Intelligence and Data Analytics.
 
-- 🎯 Sempre buscando novos desafios e oportunidades de aprendizado
-  | Always seeking new challenges and learning opportunities
+* 💻 Desenvolvendo habilidades em SQL, Power BI, Python e PostgreSQL para transformar dados em informações estratégicas.
+  | Building skills in SQL, Power BI, Python, and PostgreSQL to turn data into strategic insights.
 
-- 📖 Estudando novas tecnologias e idiomas constantemente
-  | Constantly studying new technologies and languages
+* 📈 Interessado em ETL, visualização de dados, automação e criação de dashboards.
+  | Interested in ETL, data visualization, automation, and dashboard development.
 
-- 🌍 Acredito que aprender nunca tem fim
-  | I believe learning never stops
+* 🎯 Sempre buscando novos desafios, aprendizado contínuo e evolução profissional.
+  | Always seeking new challenges, continuous learning, and professional growth.
 
-- 💬 Fique à vontade para me perguntar qualquer coisa!
-  | Feel free to ask me anything!
+* 💬 Fique à vontade para entrar em contato ou trocar experiências!
+  | Feel free to connect or share experiences!
 
+---
 
-### 🖳 Linguagens e Tecnologias
+## 📊 Linguagens e Tecnologias | Languages & Technologies
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Levy-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Levy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Levy-PostSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Levy-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="Levy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+
+<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<img align="center" alt="Power BI" height="30" width="40" src="https://cdn.simpleicons.org/powerbi/F2C811">
+
+<img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+
+<img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
 </div>
+
+---
+
+## 🎯 Objetivos | Goals
+
+* 📚 Evoluir como Analista de Dados / BI.
+* 📊 Desenvolver dashboards e indicadores para apoiar a tomada de decisão.
+* ⚙️ Automatizar processos utilizando Python.
+* 🗄️ Aprimorar conhecimentos em SQL, modelagem de dados e ETL.
+* ☁️ Expandir conhecimentos em ferramentas de dados e computação em nuvem.
+
+Sempre compartilhando projetos, estudos e aprendizados por aqui. 🚀
+
   
   ##
  
