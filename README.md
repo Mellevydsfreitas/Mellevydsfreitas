@@ -1,47 +1,49 @@
 # 👋 Olá, eu sou o Mel Levy! | Hi, I'm Mel Levy!
 
-🚀 Apaixonado por tecnologia e aprendizado contínuo.
-| Passionate about technology and continuous learning.
+🚀 **Apaixonado por tecnologia, dados e aprendizado contínuo.**  
+🚀 **Passionate about technology, data, and continuous learning.**
 
-- 💼 Atualmente atuo como Analista de TI, trabalhando com monitoramento de infraestrutura, administração de ambientes Linux e suporte a sistemas.
-  | Currently working as an IT Analyst, focusing on infrastructure monitoring, Linux administration, and system support.
+Atualmente atuo como **Analista de TI**, trabalhando com monitoramento de infraestrutura, administração de ambientes Linux e ferramentas como **Grafana, Zabbix e GLPI**.
 
-- 🌱 Sempre buscando aprender novas tecnologias e desenvolver novas habilidades.
-  | Always looking to learn new technologies and develop new skills.
+I currently work as an **IT Analyst**, focusing on infrastructure monitoring, Linux administration, and tools such as **Grafana, Zabbix, and GLPI**.
 
-- 🎯 Motivado por desafios que contribuam para meu crescimento profissional e pessoal.
-  | Motivated by challenges that contribute to my professional and personal growth.
+📊 Em transição para a área de **Dados**, com foco em **Business Intelligence** e **Análise de Dados**.  
+📊 Transitioning into the **Data** field, focusing on **Business Intelligence** and **Data Analytics**.
 
-- 🤝 Acredito que compartilhar conhecimento e colaborar são partes essenciais da evolução na tecnologia.
-  | I believe that sharing knowledge and collaboration are essential parts of growth in technology.
+💻 Desenvolvendo habilidades em **SQL, Python, PostgreSQL e Power BI** para transformar dados em informações estratégicas.  
+💻 Building skills in **SQL, Python, PostgreSQL, and Power BI** to turn data into strategic insights.
 
-- 💬 Fique à vontade para explorar meus projetos e trocar experiências!
-  | Feel free to explore my projects and connect with me!
+📈 Interessado em **ETL, modelagem de dados, visualização de dados, automação e criação de dashboards**.  
+📈 Interested in **ETL, data modeling, data visualization, automation, and dashboard development**.
+
+🎯 Sempre buscando novos desafios, aprendizado contínuo e evolução profissional.  
+🎯 Always seeking new challenges, continuous learning, and professional growth.
+
+💬 Fique à vontade para explorar meus projetos e entrar em contato!  
+💬 Feel free to explore my projects and get in touch!
 
 ---
 
-## 🛠️ Linguagens e Tecnologias | Languages & Technologies
+## 🖥️ Linguagens e Tecnologias | Languages & Technologies
 
-<div style="display: inline_block">
+<div style="display: inline_block"><br>
 
-<img align="center" alt="PostgreSQL" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+<img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 
-<img align="center" alt="Python" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-<img align="center" alt="Git" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+<img align="center" alt="Power BI" height="30" width="40" src="https://cdn.simpleicons.org/powerbi/F2C811">
 
-<img align="center" alt="C#" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 
-<img align="center" alt="JavaScript" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 </div>
 
 ---
+
 
 ## ⚙️ Ferramentas e Plataformas | Tools & Platforms
 
