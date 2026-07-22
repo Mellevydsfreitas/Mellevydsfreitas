@@ -7,15 +7,6 @@ Atualmente atuo como **Analista de TI**, trabalhando com monitoramento de infrae
 
 I currently work as an **IT Analyst**, focusing on infrastructure monitoring, Linux administration, and tools such as **Grafana, Zabbix, and GLPI**.
 
-📊 Em transição para a área de **Dados**, com foco em **Business Intelligence** e **Análise de Dados**.  
-📊 Transitioning into the **Data** field, focusing on **Business Intelligence** and **Data Analytics**.
-
-💻 Desenvolvendo habilidades em **SQL, Python, PostgreSQL e Power BI** para transformar dados em informações estratégicas.  
-💻 Building skills in **SQL, Python, PostgreSQL, and Power BI** to turn data into strategic insights.
-
-📈 Interessado em **ETL, modelagem de dados, visualização de dados, automação e criação de dashboards**.  
-📈 Interested in **ETL, data modeling, data visualization, automation, and dashboard development**.
-
 🎯 Sempre buscando novos desafios, aprendizado contínuo e evolução profissional.  
 🎯 Always seeking new challenges, continuous learning, and professional growth.
 
@@ -31,8 +22,6 @@ I currently work as an **IT Analyst**, focusing on infrastructure monitoring, Li
 <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-<img align="center" alt="Power BI" height="30" width="40" src="https://cdn.simpleicons.org/powerbi/F2C811">
 
 <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 
