@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou o Mel Levy! | Hi, I'm Mel Levy!
 
-🚀 **Apaixonado por tecnologia, dados e aprendizado contínuo.**  
-🚀 **Passionate about technology, data, and continuous learning.**
 
 Atualmente atuo como **Analista de TI**, trabalhando com monitoramento de infraestrutura, administração de ambientes Linux e ferramentas como **Grafana, Zabbix e GLPI**.
 
